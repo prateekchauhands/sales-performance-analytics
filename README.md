@@ -15,7 +15,7 @@ Power Query Editor: For data cleaning, filtering, and transformation into the da
 Microsoft Power BI: For data analysis and visualization.
 
 ## Key Highlights
-Based on the analysis and interactive dashboards delivered to the client, the stakeholders were able to visualize sales performance metrics, track KPIs in real-time, and make data-driven decisions, resulting in a **10% growth in sales revenue over a six-month period.**
+Based on the analysis and interactive dashboards delivered to the client, the stakeholders were able to visualize sales performance metrics, track KPIs in real-time, and make data-driven decisions, **resulting in a 10% growth in sales revenue over a six-month period.**
 
 ## Dashboard Preview
 Click the link to access the interactive dashboard - [Sales Performance and Analytics](https://app.powerbi.com/view?r=eyJrIjoiNmI0MjNiNTctMzYzMS00ZjUwLTlhN2QtYWFlZWQ4ZmE2MTA0IiwidCI6ImRlYTFmNTJjLTI4OWYtNGZiMS05MDU5LTVmMWY3ZjdlNDRjYyJ9)
